@@ -1,3 +1,4 @@
+import RightSec from "@/component/RightSec"
 import { FC } from "react"
 import TableSec from "../component/TableSec"
 import TopButtonSec from "../component/TopButtonSec"
@@ -11,7 +12,7 @@ const Investment: FC<{}> = () => {
                 <TopButtonSec />
                 <div className="grid grid-cols-3 gap-4">
                     <TableSec />
-
+                    <RightSec />
                 </div>
             </div>
 

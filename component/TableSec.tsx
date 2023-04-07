@@ -10,7 +10,7 @@ const TableSec: FC<{}> = () => {
                 <div className="flex items-center px-4 py-2 bg-subMain shadow  border-subMain border rounded-lg">
                     <div className=" mr-4 w-32">
                         <span className="block text-smalltext text-white">AVG RETURNS</span>
-                        <span className="flex text-white text-base">$27.885.00 <span
+                        <span className="flex text-white text-normaltext">$27.885.00 <span
                             className="flex text-boxtext text-win ml-2">24%
                             <img src="images/arrowup.svg" alt="" />
                         </span>
@@ -24,7 +24,7 @@ const TableSec: FC<{}> = () => {
                 <div className="flex items-center px-4 py-2 bg-subMain shadow  border-subMain border rounded-lg">
                     <div className=" mr-4 w-32">
                         <span className="block text-smalltext text-white">AVG RETURNS</span>
-                        <span className="flex  text-white text-base">$27.885.00 <span
+                        <span className="flex  text-white text-normaltext">$27.885.00 <span
                             className="flex text-boxtext text-wrong ml-2">24%<img src="images/downarrowred.svg"
                                 alt="" /></span></span>
                     </div>
@@ -36,7 +36,7 @@ const TableSec: FC<{}> = () => {
                 <div className="flex items-center px-4 py-2 bg-subMain shadow  border-subMain border rounded-lg">
                     <div className=" mr-4 w-32">
                         <span className="block text-smalltext text-white">AVG RETURNS</span>
-                        <span className="flex  text-white text-base">$27.885.00 <span
+                        <span className="flex  text-white text-normaltext">$27.885.00 <span
                             className="flex text-boxtext text-win ml-2">24%<img src="images/arrowup.svg"
                                 alt="" /></span></span>
                     </div>
