@@ -47,7 +47,7 @@ module.exports = {
       fontSize: {
         boxtext: ['8px', '21px'],
         xs: ['8px', '16px'],
-        sm: ['12px', '14px'],
+        smalltext: ['12px', '14px'],
         base: ['14px', '21px'],
         lg: ['18px', '28px'],
         xl: ['24px', '32px'],

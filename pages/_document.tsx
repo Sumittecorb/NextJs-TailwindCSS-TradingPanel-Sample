@@ -14,7 +14,7 @@ export default function Document() {
         <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.7.3/dist/alpine.min.js" defer></script>
         <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
       </Head>
-      <body>
+      <body className='bg-main'>
         <Main />
         <NextScript />
       </body>
