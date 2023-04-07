@@ -7,7 +7,7 @@ const AddTrade: FC<{}> = () => {
         <button className="flex border-win border px-1 py-1 text-white text-base bg-win  mr-1">
           <span className="flex-inline">ADD TRADE</span>{" "}
         </button>
-      </div>Ta
+      </div>
     </div>
   );
 };

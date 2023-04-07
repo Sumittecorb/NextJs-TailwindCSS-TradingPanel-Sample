@@ -1,6 +1,6 @@
 import { FC } from "react";
 
-const TopButtonSec: FC<{}> = () => {
+const LearningFilter: FC<{}> = () => {
   return (
     <div className="grid grid-cols-3 gap-4">
       <div className="col-span-3  ">
@@ -38,4 +38,4 @@ const TopButtonSec: FC<{}> = () => {
     </div>
   );
 };
-export default TopButtonSec;
+export default LearningFilter;
