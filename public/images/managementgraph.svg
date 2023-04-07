@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="managementgraph" transform="translate(-1262 -133)">
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(1262 133)" fill="none" stroke="#383c48" stroke-linecap="round" stroke-width="5">
+      <circle cx="35" cy="35" r="35" stroke="none"/>
+      <circle cx="35" cy="35" r="32.5" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(1262 133)" fill="none" stroke="#37d1b5" stroke-linecap="round" stroke-width="5" stroke-dasharray="179">
+      <circle cx="35" cy="35" r="35" stroke="none"/>
+      <circle cx="35" cy="35" r="32.5" fill="none"/>
+    </g>
+  </g>
+</svg>
