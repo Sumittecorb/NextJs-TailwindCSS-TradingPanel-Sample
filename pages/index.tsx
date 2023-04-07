@@ -1,11 +1,21 @@
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
+import { FC } from "react"
+import TableSec from "../component/TableSec"
+import TopButtonSec from "../component/TopButtonSec"
+import TopHeader from "../component/TopHeader"
 
-const inter = Inter({ subsets: ['latin'] })
+const Investment: FC<{}> = () => {
+    return (
+        <>
+            <TopHeader />
+            <div className="p-2 sm:p-6 space-y-2">
+                <TopButtonSec />
+                <div className="grid grid-cols-3 gap-4">
+                    <TableSec />
 
-export default function Home() {
-  return (
-    <>
-    </>
-  )
+                </div>
+            </div>
+
+        </>
+    )
 }
+export default Investment

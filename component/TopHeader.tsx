@@ -2,14 +2,14 @@ import { FC } from "react"
 
 const TopHeader:FC<{}>=()=>{
     return(
-        <div className="bg-subMain py-2 px-6 ">
+        <div className="  bg-subMain py-2 px-6 ">
         <div className="grid grid-cols-3 gap-4 ">
             <div className="col-span-2 ">
                 <div className="flex items-center px-0  mt-2 shadow  flex-wrap">
                     <button className="flex px-1 py-1 text-win text-base mb-2  ml-1 mr-1">
                         <span className="flex-inline">Report</span> </button>
                     <button className="flex border-gray-500 border px-1 py-1 text-white text-base rounded  mb-2 mr-1">
-                        <span className="flex-inline">SYMBOL</span> </button>
+                        <span className="test flex-inline">SYMBOL</span> </button>
                     <button className="flex border-gray-500 border px-1 py-1 text-white text-base rounded  mb-2 mr-1">
                         <span className="flex-inline">SETUPS</span> </button>
                     <button className="flex border-gray-500 border px-1 py-1 text-white text-base rounded  mb-2 mr-1">
